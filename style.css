@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+.top{
+    width: auto;
+    height: 80px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    padding-left: 20px;
+}
+.baner-text{
+    padding-left: 170px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+a{
+    font-family: 'Cherry Bomb One', cursive;
+    color: black;
+    text-decoration: none;
+    padding: 0px 20px;
+    cursor: pointer;
+}
+.naviText{
+    padding-right: 20px;
+}
+.main{
+    background-color: rgb(117, 117, 117);
+    width: 100%;
+    height: 851px;
+}
+.welcome{
+    font-family: 'Lato', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-text{
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.loading-icon{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+img.loading{
+    width: 100px;
+    height: 100px;
+}
+.bottom{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.author-name{
+    font-family: 'Monomaniac One', sans-serif;
+    font-size: 80px;
+}
+.author-indeks{
+    font-family: 'Monomaniac One', sans-serif;
+    font-size: 80px;
+}
